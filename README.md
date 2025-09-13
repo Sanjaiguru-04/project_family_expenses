@@ -50,7 +50,7 @@
 
 <div style="background:#111; padding:15px; border-radius:8px; color:white;">
   <p>📌 <b>Google Drive Video:</b> 
-    <a href="" 
+    <a href="https://drive.google.com/file/d/18m2p9G14q_ONWiHSfI-0rr99I7jjDy8D/view?usp=sharing" 
    style="color:#4DB8FF; text-decoration:none;" target="_blank">Click here to watch</a>
 
   </p>
